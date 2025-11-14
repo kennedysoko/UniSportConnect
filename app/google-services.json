@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963693935228",
+    "project_id": "unisportconnect-d81af",
+    "storage_bucket": "unisportconnect-d81af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963693935228:android:f3da4e902250ccd9bd27f9",
+        "android_client_info": {
+          "package_name": "com.unima.unisportconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kh1fD29qQOimf5YQOxwc_hVkRjxrRsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
